@@ -1,0 +1,7 @@
+Arch Settings:
+Graphics Settings: Use NVIDIA dGPU only
+User: razoblast
+DE: GNOME, Deepin DE, KDE
+Internet Manager: Network Manager
+Default File Manager: Nautilus
+WM: i3
