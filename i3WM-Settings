@@ -1,0 +1,5 @@
+I3 WM Settings:
+Gaps: Inner: 14 Outer: 120
+Startup: exec nitrogen —restore, picom -b
+Application Manager: Rofi with DRUN
+Also has: different tilling window styles
