@@ -58,6 +58,9 @@ bindsym $mod+d exec --no-startup-id "rofi -modi drun,run -show drun"
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
 
+
+
+
 #alt-tab like switching
 bindsym $Mod1+Tab workspace back_and_forth
 
@@ -190,12 +193,14 @@ bar {
 
 #commands to run on session START
 exec nitrogen --restore &
+exec bash ~/.config/polybar/launch.sh --forest &
+exec xrandr --output eDP-1-1 --same-as HDMI-1-1 &
 exec picom -b
 
 #gaps
 # Set gaps
 gaps inner 8
-gaps outer 120
+gaps outer 10
 
 #misc cfg for black line (gaps)
 for_window [class=".*"] border pixel 0
