@@ -4,4 +4,7 @@ User: razoblast
 DE: GNOME, Deepin DE, KDE
 Internet Manager: Network Manager
 Default File Manager: Nautilus
+Terminal: kitty
+Compositor: picom
+Kenrel: arch
 WM: i3
