@@ -1,10 +1,11 @@
 Arch Settings:
-Graphics Settings: Use NVIDIA dGPU only
 User: razoblast
 DE: GNOME, Deepin DE, KDE
 Internet Manager: Network Manager
 Default File Manager: Nautilus
-Terminal: kitty
+Terminal: kitty and alacritty
+AUR Helper: yay, paru
+Text Editor: micro, vim and neovim
 Compositor: picom
-Kenrel: arch
-WM: i3
+Kenrel: zen
+WM: i3 WM
