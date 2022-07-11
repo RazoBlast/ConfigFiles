@@ -195,7 +195,9 @@ bar {
 exec nitrogen --restore &
 exec bash ~/.config/polybar/launch.sh --forest &
 exec xrandr --output eDP-1-1 --same-as HDMI-1-1 &
+exec xrandr --output eDP-1 --same-as HDMI-1 &
 exec picom -b
+exec pkill i3bar
 
 #gaps
 # Set gaps
