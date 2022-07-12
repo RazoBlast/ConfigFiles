@@ -8,7 +8,7 @@ These "config" files include:
 **Polybar settings**
 **And others, please check out the repository for further information.**
 
-**Rice 1:**
+**Rice 1:**\
 ![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 **Rice 2:**\
