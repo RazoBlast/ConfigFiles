@@ -7,3 +7,9 @@ These "config" files include:
 **My WM settings**\
 **Polybar settings**
 **And others, please check out the repository for further information.**
+
+**Rice 1:**
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")\
+
+**Rice 2:**\
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
