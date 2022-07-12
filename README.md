@@ -9,7 +9,7 @@ These "config" files include:
 **And others, please check out the repository for further information.**
 
 **Rice 1:**\
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://github.com/RazoBlast/ConfigFiles/blob/main/Rice-GitHub-1.png "a title")
 
 **Rice 2:**\
 ![Alt text](https://user-images.githubusercontent.com/100123401/178525884-1bce8da8-dee6-4738-9926-a1413d30d71d.png "a title")
