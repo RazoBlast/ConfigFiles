@@ -24,9 +24,12 @@ These `config` files include:
 `Wallpaper: From DistroTubes wallpaper repository.`\
 `Task Manager: btop`
 
-**Useful Links:**
-[**CAVA**](https://aur.archlinux.org/packages/cava)\
-[**DistroTube Wallpaper Repo**](https://gitlab.com/dwt1/wallpapers/)\
-[**btop**](https://aur.archlinux.org/packages/pfetch)\
-[**cmatrix**](https://aur.archlinux.org/packages/cmatrix)\
-[**polybar**](https://github.com/polybar/polybar)
+**Useful Links:**\https://gitlab.com/dwt1/wallpapers/
+
+[**CAVA: an audio visualizer**](https://aur.archlinux.org/packages/cava)\
+[**DistroTube Wallpaper Repo: good wallpapers**](https://gitlab.com/dwt1/wallpapers/)\
+[**btop: a system monitoring tool**](https://aur.archlinux.org/packages/btop)\
+[**cmatrix: character waterfall**](https://aur.archlinux.org/packages/cmatrix)\
+[**polybar: cutting-edge robust bar**](https://github.com/polybar/polybar)\
+[**pfetch: a lightweight fetch program**](https://aur.archlinux.org/packages/pfetch)\
+
