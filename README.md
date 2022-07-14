@@ -1,8 +1,8 @@
-All config files as per of date **Month: July, Day: 14 and 12, Year 2022** and onwards.
+All config files as per of date `Month: July, Day: 14 and 12, Year 2022` and onwards.
 
-These "config" files include:
+These `config` files include:
 
-[CAVA](https://aur.archlinux.org/packages/cava) **audio visualizer settings**\
+[**CAVA**](https://aur.archlinux.org/packages/cava) **audio visualizer settings**\
 **My Linux System (Arch) settings**\
 **My WM settings**\
 **Polybar settings**\
@@ -17,11 +17,11 @@ These "config" files include:
 
 **More Info:**
 
-`Terminal: Alacritty, default config`
-`Character Waterfall: cmatrix`
-`Fetch: pfetch, default config`
-`Bar: polybar, config given in dotfiles.`
-`Wallpaper: From DistroTubes wallpaper repository.`
+`Terminal: Alacritty, default config`\
+`Character Waterfall: cmatrix`\
+`Fetch: pfetch, default config`\
+`Bar: polybar, config given in dotfiles.`\
+`Wallpaper: From DistroTubes wallpaper repository.`\
 `Task Manager: btop`
 
 **Useful Links:**
