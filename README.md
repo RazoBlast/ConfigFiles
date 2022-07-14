@@ -2,10 +2,9 @@ All config files as per of date `Month: July, Day: 14 and 12, Year 2022` and onw
 
 These `config` files include:
 
-[**CAVA**](https://aur.archlinux.org/packages/cava) **audio visualizer settings**\
 `My Linux System (Arch) settings`\
 `My WM settings`\
-`Polybar settings`\
+`All software side settings, i3 WM, cava, polybar etc.`\
 `And others, please check out the repository for further information.`
 
 **Rice 1:**\
