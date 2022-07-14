@@ -25,8 +25,8 @@ These `config` files include:
 `Task Manager: btop`
 
 **Useful Links:**
-[**CAVA**](https://aur.archlinux.org/packages/cava)
-[**DistroTube Wallpaper Repo**](https://gitlab.com/dwt1/wallpapers/)
-[**btop**](https://aur.archlinux.org/packages/pfetch)
-[**cmatrix**](https://aur.archlinux.org/packages/cmatrix)
-[**polybar**]((https://github.com/polybar/polybar)
+[**CAVA**](https://aur.archlinux.org/packages/cava)\
+[**DistroTube Wallpaper Repo**](https://gitlab.com/dwt1/wallpapers/)\
+[**btop**](https://aur.archlinux.org/packages/pfetch)\
+[**cmatrix**](https://aur.archlinux.org/packages/cmatrix)\
+[**polybar**](https://github.com/polybar/polybar)
