@@ -13,3 +13,4 @@ These "config" files include:
 
 **Rice 2:**\
 ![Alt text](https://user-images.githubusercontent.com/100123401/178525884-1bce8da8-dee6-4738-9926-a1413d30d71d.png "a title")
+**The second one is copy pasted, adi1090x's forest PolyBar theme, the DistroTube wallpaper repo on GitLab, and btop, tty-clock and cava.**
