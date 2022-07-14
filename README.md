@@ -3,10 +3,10 @@ All config files as per of date `Month: July, Day: 14 and 12, Year 2022` and onw
 These `config` files include:
 
 [**CAVA**](https://aur.archlinux.org/packages/cava) **audio visualizer settings**\
-**My Linux System (Arch) settings**\
-**My WM settings**\
-**Polybar settings**\
-**And others, please check out the repository for further information.**
+`My Linux System (Arch) settings`\
+`My WM settings`\
+`Polybar settings`\
+`And others, please check out the repository for further information.`
 
 **Rice 1:**\
 ![Alt text](https://github.com/RazoBlast/ConfigFiles/blob/main/Rice-GitHub-1.png "a title")
