@@ -27,8 +27,8 @@ These `config` files include:
 
 [**CAVA:**](https://aur.archlinux.org/packages/cava) `an audio visualizer`\
 [**DistroTube Wallpaper Repo**](https://gitlab.com/dwt1/wallpapers/) `good wallpapers`\
-[**btop**](https://aur.archlinux.org/packages/btop) `a system monitoring tool`\
-[**cmatrix**](https://aur.archlinux.org/packages/cmatrix) `character waterfall`\
+[**btop**](https://aur.archlinux.org/packages/btop-git) `a system monitoring tool`\
+[**cmatrix**](https://aur.archlinux.org/packages/cmatrix-git) `character waterfall`\
 [**polybar**](https://github.com/polybar/polybar) `cutting-edge robust bar`\
 [**pfetch:**](https://aur.archlinux.org/packages/pfetch) `a lightweight fetch program`
 
